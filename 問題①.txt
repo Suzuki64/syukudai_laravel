@@ -1,0 +1,10 @@
+1.PHP
+2.model
+3.view
+4.controller
+5.HTTPメソッド
+6.create
+7.read
+8.update
+9.routing
+10.blade
